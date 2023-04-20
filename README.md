@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siva-Ramana-HV</h1>
 <h3 align="center">A passionate ML developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 - 🔭 I’m currently Studying on **B tech Artificial Intelligence and Data science**
 
